@@ -5,4 +5,4 @@ This project is a proof of concept for using the Mustache templating engine in J
 ## Documentation
 
 - [Mustache Documentation](https://mustache.github.io/)
-- [Mustache.java Documentation](https://github.com/spullara/mustache.java)
+- [JMustache Documentation](https://github.com/samskivert/jmustache)
