@@ -19,7 +19,7 @@ import java.util.HashMap;
 import java.util.UUID;
 import java.util.stream.Collectors;
 
-import static com.github.thiagogarbazza.pocs.app.CustomAssertions.assertHtml;
+import static com.github.thiagogarbazza.pocs.app.HtmlAssertions.assertHtml;
 import static java.nio.charset.StandardCharsets.UTF_8;
 
 class TemplateHtmlTest {
